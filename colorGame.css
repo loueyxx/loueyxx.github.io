@@ -52,7 +52,7 @@ h1 {
 	background: steelBlue;
 }
 
-button {
+button, a{
 	border: none;
 	background: none;
 	text-transform: uppercase;
@@ -70,4 +70,13 @@ button {
 button:hover {
 	color: white;
 	background: steelBlue;
+}
+
+a:link, a:visited, a:hover, a:active {
+	text-decoration: none;
+	color: steelBlue;
+}
+
+a:hover {
+	color: black;
 }
