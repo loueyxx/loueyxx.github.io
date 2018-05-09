@@ -40,15 +40,11 @@ li {
 	padding-bottom: 0px;
 	padding-right: 40px;
 }
-/*.bullets {
-	text-align: left;
-	width: 200px;
-	margin: auto;*/
-}
 
 
 #colorDisplay {
-	font-size: 200%;
+	font-size: 75px;
+	
 }
 
 #message {
